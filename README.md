@@ -44,8 +44,8 @@ La aplicación usa `shape`, `dtypes`, `isnull().sum()` y `describe()` para inspe
 - `.gitignore`: archivos temporales excluidos.
 
 ## Integrantes
-1. [Escribe el nombre completo del primer integrante]
-2. [Escribe el nombre completo del segundo integrante]
+1. [angel de jesus garcia gonzalez]
+2. [david alejandro cruz albarenga]
 
 ## Nota sobre los datos
 Los registros son simulados con fines académicos y no representan ventas o inventarios reales de una empresa.
