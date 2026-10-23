@@ -1,0 +1,7 @@
+paso1. py -m venv .venv
+
+paso2. .\.venv\Scripts\Activate.ps1
+
+paso3. python -m pip install -r requirements.txt
+
+paso4. python inventario_app.py
